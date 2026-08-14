@@ -46,8 +46,8 @@ In an actual terminal, "YOU WON!" is shown in green and "Please Try Again..." in
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/Lowsignal-Code/guess_the_number.git
+cd guess_the_number
 ```
 
 No further installation steps are needed since the script has no external dependencies.
