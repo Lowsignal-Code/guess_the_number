@@ -57,7 +57,7 @@ No further installation steps are needed since the script has no external depend
 Run the script from the terminal:
 
 ```bash
-python guess_game.py
+python main.py
 ```
 
 You will be prompted to enter a number between 1 and 10. After each guess, the result is shown along with the correct number, and a new round starts automatically.
