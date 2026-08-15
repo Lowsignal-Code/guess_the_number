@@ -46,7 +46,7 @@ In an actual terminal, "YOU WON!" is shown in green and "Please Try Again..." in
 Clone the repository:
 
 ```bash
-git clone https://github.com/HoneySpider-Code/guess_the_number.git
+git clone https://github.com/honeyspyder/guess_the_number.git
 cd guess_the_number
 ```
 
